@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on any project
 - 🌍 I'm mostly active within the LinkedIn, and Github
 - 💬 Ping me about **IT**, **Data Analytics**, **Collaborations**, **General Talk**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vanessamancia) OR [Discord](https://discord.com/invite/Yr3nveCWAE)
----
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vanessamancia) 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
 </summary>
