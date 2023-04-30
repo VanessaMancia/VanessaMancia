@@ -26,7 +26,9 @@
 - [Microsoft Sentinel SIEM](https://github.com/VanessaMancia/Microsoft-Sentinel-SIEM-)
 - [Secure Cloud Configuration](https://github.com/VanessaMancia/Secure-Cloud-Configuration)
 
+- Vulnerability Management Lab
 
+  
 ---
 
 <div>
