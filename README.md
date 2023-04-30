@@ -4,7 +4,7 @@
 </summary>
 <h3>Aspiring Cybersecurity Professional<h3>
 
-- My name is Vanessa.
+- I'm Vanessa nice to meet you! 
 - 🧠 I'm actively improving my skillset, enjoy the show
 - 🗃 I'm currently working on compiling my projects
 - 👯 I’m looking to collaborate on any project
@@ -17,10 +17,12 @@
 
 <h2> 🔐Cybersecurity Projects:</h2>
   
-- Cloud SOC Project
-- Create a File Integrity Monitor
-- Create a Vulnerability Management Lab
-- Build a Simple REST API
+- Cloud SOC Project in 4 parts
+- [Azure Introduction](https://github.com/VanessaMancia/Azure-Introduction)
+- [Logging and Monitoring](https://github.com/VanessaMancia/Logging-and-Monitoring)
+- [Microsoft Sentinel SIEM](https://github.com/VanessaMancia/Microsoft-Sentinel-SIEM-)
+- [Secure Cloud Configuration](https://github.com/VanessaMancia/Secure-Cloud-Configuration)
+
 
 ---
 <div>
