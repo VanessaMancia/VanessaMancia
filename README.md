@@ -6,6 +6,7 @@
 
 - I'm Vanessa nice to meet you! 
 - 🧠 I'm actively improving my skillset, enjoy the show
+- 🥳 I have my Security+ and (ISC)² CC 
 - 🗃 I'm currently working on compiling my projects
 - 👯 I’m looking to collaborate on any project
 - 🌍 I'm mostly active within the LinkedIn, and Github
