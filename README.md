@@ -18,6 +18,8 @@
 
 <h2> 🔐Cybersecurity Projects:</h2>
   
+<details close>
+
 - Cloud SOC Project 
 - [Azure Introduction](https://github.com/VanessaMancia/Azure-Introduction)
 - [Logging and Monitoring](https://github.com/VanessaMancia/Logging-and-Monitoring)
@@ -26,14 +28,17 @@
 
 
 ---
+
 <div>
 
 <h2> 💻Data Projects:</h2>
   
-- <b>SQL PROJECTS</b>
+<details close>
+ - <b>SQL PROJECTS</b>
   - [Practicing CTE's](https://github.com/VanessaMancia/SQL/blob/main/CTE%20Spotify%20Data)
   - [Customer and Order Analytics](https://github.com/VanessaMancia/SQL/blob/main/Customer%20%26%20Order%20Analytics)
   - [Spotify Analytics](https://github.com/VanessaMancia/SQL/blob/main/Spotify%20Analytics)
   - [Netflix Analytics](https://github.com/VanessaMancia/SQL/blob/main/Netflix%20Analytics)
   - [SQLZoo](https://github.com/VanessaMancia/SQL/blob/main/SQLZOO)
+  
   ---
