@@ -2,7 +2,7 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
 </summary>
-<h3>Aspiring Cybersecurity Professional<h3>
+<h3>Cybersecurity Professional<h3>
 
 - I'm Vanessa nice to meet you! 
 - 🧠 I'm actively improving my skillset, enjoy the show
