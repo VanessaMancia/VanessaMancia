@@ -17,7 +17,7 @@
 
 <h2> 🔐Cybersecurity Projects:</h2>
   
-- Setup SIEM in Azure
+- Cloud SOC Project
 - Create a File Integrity Monitor
 - Create a Vulnerability Management Lab
 - Build a Simple REST API
