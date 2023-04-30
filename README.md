@@ -17,7 +17,7 @@
 
 <h2> 🔐Cybersecurity Projects:</h2>
   
-- Cloud SOC Project in 4 parts
+- Cloud SOC Project 
 - [Azure Introduction](https://github.com/VanessaMancia/Azure-Introduction)
 - [Logging and Monitoring](https://github.com/VanessaMancia/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/VanessaMancia/Microsoft-Sentinel-SIEM-)
@@ -30,7 +30,9 @@
 <h2> 💻Data Projects:</h2>
   
 - <b>SQL PROJECTS</b>
-  - [Building Process and Running the Pipeline](https://github.com/fnabeel/Building-Pipelines)
-  - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
-  - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
----
+  - [Practicing CTE's](https://github.com/VanessaMancia/SQL/blob/main/CTE%20Spotify%20Data)
+  - [Customer and Order Analytics](https://github.com/VanessaMancia/SQL/blob/main/Customer%20%26%20Order%20Analytics)
+  - [Spotify Analytics](https://github.com/VanessaMancia/SQL/blob/main/Spotify%20Analytics)
+  - [Netflix Analytics](https://github.com/VanessaMancia/SQL/blob/main/Netflix%20Analytics)
+  - [SQLZoo](https://github.com/VanessaMancia/SQL/blob/main/SQLZOO)
+  ---
