@@ -30,7 +30,7 @@
 
 <h2> 💻 Vulnerability Management:</h2>
 
-- [OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management)
+- [OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management-)
 
 
   
