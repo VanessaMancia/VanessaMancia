@@ -33,9 +33,5 @@
 - [OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management)
 
 
-
-<h3> SQL
-
-- [SQL Projects](
   
   ---
