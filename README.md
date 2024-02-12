@@ -4,14 +4,13 @@
 </summary>
 <h2>I'm Vanessa, a Cybersecurity Professional, nice to meet you!<h2>
 
-- 🧠 I'm actively improving my skillset, enjoy the show
 - 🥳 I have my Security+ and (ISC)² CC 
 - 🗃 I'm currently working on compiling my projects
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vanessamancia) 
 
 </summary>
 
-<h2> 🔐Cloud SOC Project:</h2>
+<h2> 🔐Cloud SOC Project</h2>
   
 - [Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)
 
@@ -19,7 +18,7 @@
 
 <div>
 
-<h2> 💻 Vulnerability Management:</h2>
+<h2> 💻 Vulnerability Management</h2>
 
 - [OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management-)
 
