@@ -13,11 +13,7 @@
 
 <h2> 🔐Cloud SOC Project:</h2>
   
- 
-- [Azure Introduction](https://github.com/VanessaMancia/Azure-Introduction)
-- [Logging and Monitoring](https://github.com/VanessaMancia/Logging-and-Monitoring)
-- [Microsoft Sentinel SIEM](https://github.com/VanessaMancia/Microsoft-Sentinel-SIEM-)
-- [Secure Cloud Configuration](https://github.com/VanessaMancia/Secure-Cloud-Configuration)
+- [Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)
 
 ---
 
