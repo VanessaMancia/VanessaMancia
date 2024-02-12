@@ -2,7 +2,7 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
 </summary>
-<h3>I'm Vanessa, a Cybersecurity Professional, nice to meet you!<h3>
+<h2>I'm Vanessa, a Cybersecurity Professional, nice to meet you!<h2>
 
 - 🧠 I'm actively improving my skillset, enjoy the show
 - 🥳 I have my Security+ and (ISC)² CC 
