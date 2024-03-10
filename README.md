@@ -4,7 +4,7 @@
 </summary>
 <h2> I'm Vanessa, a Cybersecurity Professional, nice to meet you!<h2>
 
-- 🥳 I have obtained CompTIA Security+ and (ISC)² CC 
+- 🥳 I have obtained CompTIA Security+, CySA+, and (ISC)² CC 
 - 🗃 I'm currently working on compiling my projects
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vanessamancia) 
 
