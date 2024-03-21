@@ -29,7 +29,7 @@
 
 <h2> Skills </h2>
 
-- Linux
+- [Linux](
 
 
 
