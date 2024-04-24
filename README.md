@@ -13,6 +13,7 @@
 <h2> 🔐Cloud SOC Project</h2>
   
 - [Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)
+- [NIST 800-53 Computer Incident Handling Guide]
 
 ---
 
