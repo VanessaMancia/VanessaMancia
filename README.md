@@ -33,7 +33,7 @@
 
 
 - [Managing Entra ID](https://github.com/VanessaMancia/Lab-01-Manage-Microsoft-Entra-ID-Identities)
-
+- [Managing Subscriptions](https://github.com/VanessaMancia/Lab-02a---Manage-Subscriptions-/blob/main/README.md)
 
 <h2> 🔥Skills </h2>
 
