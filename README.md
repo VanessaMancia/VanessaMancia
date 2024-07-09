@@ -29,7 +29,10 @@
 
 ---
 
-<h2>🍀AZ-104 Cert Labs<h2> 
+<h2>🍀AZ-104 Cert Labs</h2> 
+
+
+- [Managing Entra ID](https://github.com/VanessaMancia/Lab-01-Manage-Microsoft-Entra-ID-Identities)
 
 
 <h2> 🔥Skills </h2>
