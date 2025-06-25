@@ -10,10 +10,10 @@
 
 </summary>
 
-<h2> 🔐Cloud SOC Project</h2>
+## 🔐Cloud SOC Project</h2>
   
-- [Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)
-- [Incident Response Documentation](https://github.com/VanessaMancia/Incident-Response-Documentation)
+- **[Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)**
+- **[Incident Response Documentation](https://github.com/VanessaMancia/Incident-Response-Documentation)**
 
 ---
 
@@ -32,19 +32,17 @@
 
 <hr/>
 
-  ---
-
-<h2>🖥️Active Directory Project (incoming)</h2>
+## 🖥️Active Directory Project (incoming)</h2>
 
 ---
 
-<h2>🍀AZ-104 Cert Labs</h2> 
+## 🍀AZ-104 Cert Labs</h2> 
 
 
 - [Managing Entra ID](https://github.com/VanessaMancia/Lab-01-Manage-Microsoft-Entra-ID-Identities)
 - [Managing Subscriptions](https://github.com/VanessaMancia/Lab-02a---Manage-Subscriptions-/blob/main/README.md)
 
-<h2> 🔥Skills </h2>
+## 🔥Skills </h2>
 
 - 🐧[Linux](https://github.com/VanessaMancia/Linux-)
 
