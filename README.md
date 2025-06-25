@@ -19,9 +19,18 @@
 
 <div>
 
-<h2> 💻 Vulnerability Management</h2>
+## ⚠️ Vulnerability Management Projects
 
-- [OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management-)
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management-)**
+
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
 
   ---
 
