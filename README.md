@@ -32,7 +32,6 @@
 
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
   Hunting anomalous traffic and suspicious downloads using MDE and KQL.
-## 🚨 Threat Hunting & Security Operations
 
 - **[Behavioral Detection Rules for Data Exfiltration](https://github.com/VanessaMancia/Behavioral-Detection-Rules-for-Data-Exfiltration)**  
   Custom KQL queries for detecting silent installs, mass archiving, PowerShell abuse, and more.
