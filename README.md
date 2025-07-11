@@ -32,6 +32,22 @@
 
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
   Hunting anomalous traffic and suspicious downloads using MDE and KQL.
+## 🚨 Threat Hunting & Security Operations
+
+- **[Behavioral Detection Rules for Data Exfiltration](https://github.com/VanessaMancia/Behavioral-Detection-Rules-for-Data-Exfiltration)**  
+  Custom KQL queries for detecting silent installs, mass archiving, PowerShell abuse, and more.
+
+- **[Data Exfiltration from PIP’d Employee](https://github.com/VanessaMancia/Data-Exfiltration-from-PIP-d-Employee)**  
+  Insider threat scenario using behavioral analytics to detect suspicious archiving and exfiltration.
+
+- **[Sudden Network Slowdown](https://github.com/VanessaMancia/sudden-network-slowdown)**  
+  Investigation into potential port scanning and internal misconfigurations causing service degradation.
+
+- **[Threat Hunting Scenario: SocGholish Malware](https://github.com/VanessaMancia/threat-hunting-scenario-SocGholish)**  
+  Identifies user interaction with fake software updates leading to potential drive-by downloads.
+
+- **[Phishing via Fake Software Update](https://github.com/VanessaMancia/PhishingSoftwareUpdate)**  
+  Simulated campaign mimicking legitimate software updates to distribute malicious payloads.
 
 ---
 
