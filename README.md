@@ -19,12 +19,16 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)**  
-  Structure and policy framework for implementing vulnerability management.
-- **[Programmatic Remediation (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
-  Scripts for automating patching and risk reduction.
 - **[OpenVAS Scanning & Remediation](https://github.com/VanessaMancia/Vulnerability-Management-)**  
-  Example scans and reports using OpenVAS.
+  Example scans and remediation actions using OpenVAS.
+
+> 🛠️ Projects below are in progress or based on learning resources I’m currently exploring:
+
+- 🧪 *[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)*  
+  *(Learning from this structure to build my own program framework.)*
+
+- 🧪 *[Programmatic Remediation (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)*  
+  *(Studying automation techniques to implement in my future scripts.)*
 
 ---
 
