@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Vanessa — a Cybersecurity Professional, nice to meet you!
 
-- 🥇 **Certifications:** CompTIA Security+, CySA+, and (ISC)² CC  
+- 🥇 **Certifications:** CompTIA Security+, CySA+, SecurityX (formerly known as CASP) and (ISC)² CC  
 - 🗃️ **Currently Working On:** Building and documenting my cybersecurity projects  
 - 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/vanessamancia)**
 
