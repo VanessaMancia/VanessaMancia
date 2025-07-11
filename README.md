@@ -1,51 +1,53 @@
-  
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-</summary>
-<h2> I'm Vanessa, a Cybersecurity Professional, nice to meet you!<h2>
+## 👋 Hi there! I'm Vanessa — a Cybersecurity Professional, nice to meet you!
 
-- 🥇Certifications Obtained: CompTIA Security+, CySA+, and (ISC)² CC 
-- 🗃 I'm currently working on compiling my projects
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vanessamancia) 
-
-</summary>
-
-## 🔐Cloud SOC Project</h2>
-  
-- **[Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)**
-- **[Incident Response Documentation](https://github.com/VanessaMancia/Incident-Response-Documentation)**
+- 🥇 **Certifications:** CompTIA Security+, CySA+, and (ISC)² CC
+- 🗃️ **Currently Working On:** Building and documenting my cybersecurity projects
+- 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/vanessamancia)**
 
 ---
 
-<div>
+## 🔐 Cloud SOC Projects
+
+- **[Azure Honeynet and SOC](https://github.com/VanessaMancia/Azure-SOC-Honeynet)**  
+  Simulates real-world attacks in Azure with Defender integration and investigation.
+- **[Incident Response Documentation](https://github.com/VanessaMancia/Incident-Response-Documentation)**  
+  Examples of IR playbooks, escalation paths, and real-world incident scenarios.
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[OpenVAS Vulnerability Management](https://github.com/VanessaMancia/Vulnerability-Management-)**
-
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-<hr/>
-
-## 🖥️Active Directory Project (incoming)</h2>
+- **[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)**  
+  Structure and policy framework for implementing vulnerability management.
+- **[Programmatic Remediation (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
+  Scripts for automating patching and risk reduction.
+- **[OpenVAS Scanning & Remediation](https://github.com/VanessaMancia/Vulnerability-Management-)**  
+  Example scans and reports using OpenVAS.
 
 ---
 
-## 🍀AZ-104 Cert Labs</h2> 
+## 🚨 Threat Hunting & Security Operations
 
+- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+  Hunting anomalous traffic and suspicious downloads using MDE and KQL.
 
-- [Managing Entra ID](https://github.com/VanessaMancia/Lab-01-Manage-Microsoft-Entra-ID-Identities)
-- [Managing Subscriptions](https://github.com/VanessaMancia/Lab-02a---Manage-Subscriptions-/blob/main/README.md)
+---
 
-## 🔥Skills </h2>
+## 🖥️ Active Directory Project *(Coming Soon)*
 
-- 🐧[Linux](https://github.com/VanessaMancia/Linux-)
+---
 
+## 🍀 AZ-104 Certification Labs
 
+- **[Lab 01: Managing Entra ID](https://github.com/VanessaMancia/Lab-01-Manage-Microsoft-Entra-ID-Identities)**
+- **[Lab 02a: Managing Subscriptions](https://github.com/VanessaMancia/Lab-02a---Manage-Subscriptions-/blob/main/README.md)**
 
+---
+
+## 🔥 Skills
+
+- 🐧 **[Linux Projects](https://github.com/VanessaMancia/Linux-)**  
+  Commands, hardening techniques, and service management.
 
