@@ -38,9 +38,6 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[OpenVAS Scanning & Remediation](https://github.com/VanessaMancia/Vulnerability-Management-)**  
-  Example scans and remediation actions using OpenVAS.
-
 > 🛠️ Projects below are in progress or based on learning resources I’m currently exploring:
 
 - 🧪 *[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)*  
