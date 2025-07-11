@@ -2,8 +2,8 @@
 
 ## 👋 Hi there! I'm Vanessa — a Cybersecurity Professional, nice to meet you!
 
-- 🥇 **Certifications:** CompTIA Security+, CySA+, and (ISC)² CC
-- 🗃️ **Currently Working On:** Building and documenting my cybersecurity projects
+- 🥇 **Certifications:** CompTIA Security+, CySA+, and (ISC)² CC  
+- 🗃️ **Currently Working On:** Building and documenting my cybersecurity projects  
 - 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/vanessamancia)**
 
 ---
@@ -17,25 +17,7 @@
 
 ---
 
-## ⚠️ Vulnerability Management Projects
-
-- **[OpenVAS Scanning & Remediation](https://github.com/VanessaMancia/Vulnerability-Management-)**  
-  Example scans and remediation actions using OpenVAS.
-
-> 🛠️ Projects below are in progress or based on learning resources I’m currently exploring:
-
-- 🧪 *[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)*  
-  *(Learning from this structure to build my own program framework.)*
-
-- 🧪 *[Programmatic Remediation (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)*  
-  *(Studying automation techniques to implement in my future scripts.)*
-
----
-
 ## 🚨 Threat Hunting & Security Operations
-
-- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
-  Hunting anomalous traffic and suspicious downloads using MDE and KQL.
 
 - **[Behavioral Detection Rules for Data Exfiltration](https://github.com/VanessaMancia/Behavioral-Detection-Rules-for-Data-Exfiltration)**  
   Custom KQL queries for detecting silent installs, mass archiving, PowerShell abuse, and more.
@@ -54,14 +36,18 @@
 
 ---
 
-## 🖥️ Active Directory Project *(Coming Soon)*
+## ⚠️ Vulnerability Management Projects
 
----
+- **[OpenVAS Scanning & Remediation](https://github.com/VanessaMancia/Vulnerability-Management-)**  
+  Example scans and remediation actions using OpenVAS.
 
-## 🍀 AZ-104 Certification Labs
+> 🛠️ Projects below are in progress or based on learning resources I’m currently exploring:
 
-- **[Lab 01: Managing Entra ID](https://github.com/VanessaMancia/Lab-01-Manage-Microsoft-Entra-ID-Identities)**
-- **[Lab 02a: Managing Subscriptions](https://github.com/VanessaMancia/Lab-02a---Manage-Subscriptions-/blob/main/README.md)**
+- 🧪 *[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)*  
+  *(Learning from this structure to build my own program framework.)*
+
+- 🧪 *[Programmatic Remediation (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)*  
+  *(Studying automation techniques to implement in my future scripts.)*
 
 ---
 
@@ -69,4 +55,3 @@
 
 - 🐧 **[Linux Projects](https://github.com/VanessaMancia/Linux-)**  
   Commands, hardening techniques, and service management.
-
