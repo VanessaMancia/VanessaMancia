@@ -34,6 +34,8 @@
 - **[Phishing via Fake Software Update](https://github.com/VanessaMancia/PhishingSoftwareUpdate)**  
   Simulated campaign mimicking legitimate software updates to distribute malicious payloads.
 
+- **[zero-day ransomware PwnCrypt](https://github.com/VanessaMancia/zero-day-Ransomware-PwnCrypt)**
+  Investigated IOCs for possible ransomware PwnCrypt. 
 ---
 
 ## ⚠️ Vulnerability Management Projects
