@@ -36,6 +36,15 @@
 
 - **[Zero-day ransomware PwnCrypt](https://github.com/VanessaMancia/zero-day-Ransomware-PwnCrypt)**  
   Analyzed and investigated indicators of compromise (IOCs) associated with the PwnCrypt ransomware to simulate real-world threat detection.
+
+- **[Threat Hunting Scenario: TOR Anomaly](https://github.com/VanessaMancia/threat-hunting-scenario-tor)**  
+  Simulated a threat hunting scenario focused on identifying anomalous TOR network activity using KQL and Microsoft Sentinel.
+
+- **[PowerShell Suspicious Web Request Detection](https://github.com/VanessaMancia/PowerShell-suspicious-web-request)**  
+  Developed detection logic to identify suspicious PowerShell web requests indicative of potential malware staging or command-and-control activity.
+
+- **[Brute Force Attempt Detection Rule](https://github.com/VanessaMancia/Create-Alert-Rule-Brute-Force-Attempt-Detection-)**  
+  Created a scheduled alert rule in Microsoft Sentinel to detect brute-force login attempts based on repeated failed authentications from the same IP address.
   
 ---
 
