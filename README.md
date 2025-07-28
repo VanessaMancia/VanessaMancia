@@ -52,7 +52,7 @@
 
 > 🛠️ Projects below are in progress or based on learning resources I’m currently exploring:
 
-- 🧪 *[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)*  
+- 🧪 *[Vulnerability Management Program](https://github.com/VanessaMancia/vulnerability-management-program/blob/main/README.md)*  
   *(Learning from this structure to build my own program framework.)*
 
 - 🧪 *[Programmatic Remediation (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)*  
